@@ -1,0 +1,21 @@
+# Lsit is thepre build data type that store set of the values in python
+# it can store element of different types(integer,float,string,etc..)
+print("Now we are using the examples of the lsit in python")
+marks = [87,65,97,56,69]
+print(marks)
+print(type(marks))
+print("Now printing the seprate values for of the list")
+print(marks[0])
+print(marks[1])
+print(marks[2])
+print(marks[3])
+print(marks[4])
+print("Now printing the different different data type of list")
+detail = ["Inzamam",19,"CSE-(AI/ML)",76.41]
+print(detail)
+print("Now printing the seprate values for of the list")
+print(detail[0])
+print(detail[1])
+print(detail[2])
+print(detail[3])
+print(type(detail))
