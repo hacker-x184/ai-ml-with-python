@@ -1,0 +1,13 @@
+import numpy as np
+arr = np.array([[1,2,3],[8,9,4]])
+print(arr)
+print(arr + 5)
+print(arr - 5)
+print(arr * 5)
+print(arr ** 2)
+print(np.sum(arr))
+print(np.mean(arr))
+print(np.min(arr))
+print(np.max(arr))
+print(np.std(arr))
+print(np.var(arr))
