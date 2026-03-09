@@ -99,7 +99,7 @@ Upcoming topics to learn and implement:
 
 ## 👨‍💻 Author
 
-**Mohd Inzamam(Anonymous)**
+**Mohd Inzamam(Anonnymous)**
 CSE (AI/ML) Student
 Exploring Python, Artificial Intelligence, Machine Learning, and Cybersecurity.
 
