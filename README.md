@@ -95,7 +95,6 @@ Upcoming topics to learn and implement:
 * Deep Learning
 * Real AI Projects
 
----
 
 ## 👨‍💻 Author
 
